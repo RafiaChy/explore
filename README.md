@@ -164,5 +164,5 @@ Update the `CFBundleLocalizations` array in the `Info.plist` at `ios/Runner/Info
 [very_good_cli_link]: https://github.com/VeryGoodOpenSource/very_good_cli
 
 The Screenshot
-Because of invalid token shown from Postman, I could not study the json body. However, the provided example was used to model the dart class and from there the only relevant item was the distance. As the token from my end showed to be invalid it came out to be null. Aside from that app is fully maintainable, scalable, and can be used to display data with valid token.
+Because of invalid token shown from Postman, I could not study the json body. However, the provided example was used to model the dart class and from there the only relevant item was the distance. As the token from my end showed to be invalid it came out to be null. Aside from that app is fully maintainable, scalable, and can be used to display data with valid token. Figma link would have allowed me to mock up even better but I was not provided the figma link; hence the icons and color themes are completely based on my intuitions.
 ![Explore](explore.gif "Explore")
