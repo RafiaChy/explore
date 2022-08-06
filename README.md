@@ -10,7 +10,6 @@ A Very Good Project created by Very Good CLI.
 
 ---
 
-## Getting Started 🚀
 This project followed MVVM acrhitecture and used bloc
 This project contains 3 flavors:
 
